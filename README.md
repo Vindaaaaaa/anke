@@ -1,4 +1,4 @@
-<img width="1920" height="824" alt="image" src="https://github.com/user-attachments/assets/d07cbf8e-8859-4dcf-83cc-b6fa5e916f8a" /># nga帖子推荐/更新/回复代码
+# nga帖子推荐/更新/回复代码
 该代码作用为作者查看自己帖子的推荐/更新/回复
 # 环境配置
 1.webscraper 火狐和chrome均可
