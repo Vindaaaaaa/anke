@@ -53,6 +53,24 @@
 14.打开jupyter notebook,打开proceed.ipynb文件
 <img width="1476" height="406" alt="image" src="https://github.com/user-attachments/assets/a766bbde-f02a-440b-b1b4-707af7973739" />
 
+15.点击第一个代码块并运行安装第三方包
+<img width="1736" height="496" alt="image" src="https://github.com/user-attachments/assets/505350c9-7135-4c37-ac78-d78533364e01" />
+
+16.点击第二个代码块导入代码需要的包
+<img width="1429" height="656" alt="image" src="https://github.com/user-attachments/assets/e3f6efd3-2781-4483-bb07-e45f5296ba7d" />
+
+17.点击第三个代码块并修改其中的datetime_last和datetime_this为上次和这次采集数据的日期后点击运行
+<img width="1920" height="754" alt="image" src="https://github.com/user-attachments/assets/e08ee543-1bbf-418e-8637-e0b908d29c86" />
+
+18.点击第四个代码块后修改其中的username为楼主用户名后，点击运行
+<img width="1454" height="764" alt="image" src="https://github.com/user-attachments/assets/ab09b510-0c48-40bb-8037-c053396712df" />
+
+19.运行结果如图
+<img width="656" height="211" alt="image" src="https://github.com/user-attachments/assets/35d5edab-1ae4-43ac-b245-eaa0d8cb7e9b" />
+
+
+
+
 
 
 
