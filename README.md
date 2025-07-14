@@ -66,7 +66,8 @@
 <img width="1454" height="764" alt="image" src="https://github.com/user-attachments/assets/ab09b510-0c48-40bb-8037-c053396712df" />
 
 19.运行结果如图
-<img width="656" height="211" alt="image" src="https://github.com/user-attachments/assets/35d5edab-1ae4-43ac-b245-eaa0d8cb7e9b" />
+<img width="466" height="462" alt="image" src="https://github.com/user-attachments/assets/7446847a-6508-44c6-831f-636d4bae576a" />
+
 
 
 
